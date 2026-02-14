@@ -2,7 +2,7 @@
 ## Sales Data Analysis
 
 ## 📌 Overview
-This project was completed as part of the **CodeAlpha Data Science Internship**.  
+This project was completed as part of the **CodeAlpha Data Analytics Internship**.  
 The objective was to perform Exploratory Data Analysis (EDA) to understand sales distribution, revenue drivers, seasonality, and data quality issues.
 
 ---
