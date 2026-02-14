@@ -1,4 +1,5 @@
-# 📊 CodeAlpha – Sales Data Analysis
+# 📊 CodeAlpha – Exploratory Data Analysis (EDA)
+## Sales Data Analysis
 
 ## 📌 Overview
 This project was completed as part of the **CodeAlpha Data Science Internship**.  
